@@ -18,4 +18,4 @@ else {
     });
 }
 
-module.exports = Sequelize;
+module.exports = sequelize;
